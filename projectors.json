@@ -1,0 +1,22 @@
+[
+  {
+    "name": "windows-latest",
+    "architecture": "64",
+    "link": "https://archive.org/download/shockpkg_packages_6/68/e0/284f107511beb550aeaa7a07f546d5e180908f4b2c99c3a7d3936b1e3537/FlashPlayer.exe"
+  },
+  {
+    "name": "windows-latest",
+    "architecture": "32",
+    "link": "https://archive.org/download/shockpkg_packages_8/8e/c3/0cab58199bfbc15471eccbd1ee45ad8656bca571f504f81fe31dfaaa86d3/FlashPlayer.exe"
+  },
+  {
+    "name": "linux-latest",
+    "architecture": "64",
+    "link": "https://archive.org/download/shockpkg_packages_8/88/3f/7aa23301fc80de879501157533a4acdbfee0721ed7c57676dc032fdf96c3/flash_player_sa_linux.x86_64.tar.gz"
+  },
+  {
+    "name": "linux-latest",
+    "architecture": "32",
+    "link": "https://archive.org/download/shockpkg_packages_a/ab/a0/e2f5940fc2588357e93f7bad84a0db51792b2f2bd1d24be9ef491e87c041/fp_11.2.202.644_archive.zip"
+  }
+]
